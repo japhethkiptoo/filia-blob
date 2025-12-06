@@ -1,0 +1,10 @@
+/target
+
+
+.idea/
+.vscode/
+.zed/
+
+
+.env
+**.txt
