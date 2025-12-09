@@ -1,4 +1,5 @@
-// mod storage;
+mod error;
+mod storage;
 mod api;
 // mod db;
 

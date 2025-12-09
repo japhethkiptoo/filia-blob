@@ -1,6 +1,6 @@
-use axum::Router;
 
-pub fn create_router() -> Router {
+mod routes;
+mod handlers;
 
-    Router::new()
-}
+
+pub use routes::create_router;
